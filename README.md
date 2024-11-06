@@ -1,5 +1,3 @@
-Here's an updated README.md to match the specific steps needed to run this project:
-
 ---
 
 # Violence and Weapon Detection
