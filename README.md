@@ -1,5 +1,3 @@
----
-
 # Violence and Weapon Detection
 
 This repository provides a simple application to detect violent activities and weapons in video footage using deep learning models. The application is built using FastAPI, which serves the detection functionality through an API.
@@ -38,7 +36,7 @@ To run this project, follow the instructions below.
 
 ## Model Setup
 
-1. **Download the Model**: Download the pre-trained model (link provided in the repository or as instructed).
+1. **Download the Model**: Download the pre-trained model (https://drive.google.com/file/d/1vVmGN2mEpbgXIXydtRGOS9Vpu0EygSSD/view?usp=share_link and https://drive.google.com/file/d/1z34ArBuUhKW5tnD1kpoLKPrDeemUNUoW/view?usp=sharing).
 2. **Create Model Directory**: In your project directory, create a new folder named `model`.
 3. **Move Model File**: Place the downloaded model file into the `model` folder.
 
